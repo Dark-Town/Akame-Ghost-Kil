@@ -5,12 +5,12 @@ import { fileURLToPath } from 'url'
 SESSION_ID: process.env.SESSION_ID || 'HP_2025_FEB_4_VXIJXW',
   
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5491168352204']
+  ['263716004482', 'YOOK', true],
+  ['263716004482']
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.prems = ['+263716004482', '263716004482']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
