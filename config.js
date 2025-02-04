@@ -2,6 +2,8 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk' 
 import { fileURLToPath } from 'url' 
 
+SESSION_ID: process.env.SESSION_ID || 'HP_2025_FEB_4_VXIJXW',
+  
 global.owner = [
   ['59172945992', 'FG98', true],
   ['5491168352204']
